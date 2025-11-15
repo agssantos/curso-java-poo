@@ -1,18 +1,18 @@
-## Getting Started
+# Curso Java POO (Programação Orientada a Objetos)  ![Java](https://img.shields.io/badge/Java-POO-blue)
+Repositório de **@agssantos** contendo os exercícios, projetos e anotações do curso **Java POO [40 Horas]** do Curso em Vídeo.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## 🎓 Sobre o curso  
+- Plataforma: Curso em Vídeo – Curso gratuito em formato de vídeo-aulas.  
+- Instrutor: Gustavo Guanabara.  
+- Carga horária: ~40 horas.  
+- Objetivo: Aprender e aplicar os fundamentos da Programação Orientada a Objetos (POO) na linguagem Java, incluindo os pilares da POO: abstração, encapsulamento, herança e polimorfismo.  
+- Pré-requisitos: Noções básicas de lógica de programação e sintaxe Java.
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `Aula02`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 🧠 O que você irá aprender  
+Durante o curso são abordados, entre outros:  
+- Instalação do JDK e ambiente de desenvolvimento (IDE).  
+- Criação de classes, objetos, atributos e métodos em Java.  
+- Visibilidade (private/public), getters, setters, construtores.  
+- Relacionamento entre classes: agregação, composição, herança.  
+- Sobrecarga de métodos, polimorfismo, interfaces (dependendo da versão).  
+- Projeto prático que reúne os conceitos aprendidos.
